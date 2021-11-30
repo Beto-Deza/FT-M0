@@ -2,4 +2,19 @@ body {
     background-size: cover;
 }
 
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border:ppx solid blue;
+}
+
+#spamId {
+    font-size: 18px;
+    margin: 50px 50px 50px 50px;
+}
+
+
+
 
